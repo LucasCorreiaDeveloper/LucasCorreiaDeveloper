@@ -87,17 +87,6 @@ const lucas = {
 
 </div>
 
-### `// atividade`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCorreiaDeveloper&bg_color=000000&color=C9D1D9&line=0A84FF&point=FFFFFF&area=true&area_color=0A84FF&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
-
-### `// troféus`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LucasCorreiaDeveloper&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
 
 ### `// contribuições`
 
