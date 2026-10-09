@@ -15,14 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Snake claro
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: 
-            dist/github-snake.svg?color_snake=#0A84FF&color_dots=#ebedf0,#b6d4fe,#6ea8fe,#0A84FF,#0a58ca
-            dist/github-snake-dark.svg?color_snake=#5AB4FF&color_dots=#1b2432,#0b2a52,#0d4287,#1160b8,#1a73e8
+          outputs: "dist/github-snake.svg?color_snake=#0A84FF&color_dots=#ebedf0,#b6d4fe,#6ea8fe,#0A84FF,#0a58ca"
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Snake escuro
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: "dist/github-snake-dark.svg?color_snake=#5AB4FF&color_dots=#1b2432,#0b2a52,#0d4287,#1160b8,#1a73e8"
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
