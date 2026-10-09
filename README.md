@@ -17,7 +17,7 @@
 
 ### `// sobre mim`
 
-Sou o **Lucas**, desenvolvedor **full stack**. Meu foco é cobrir o caminho inteiro de um produto: banco de dados e API em **Node.js/Express**, interface em **React** com **Tailwind**, e tudo rodando em **Docker**.
+Sou o **Lucas Correia**, desenvolvedor **Full-Stack**. Meu foco é cobrir o caminho inteiro de um produto: banco de dados e API em **Node.js/Express**, interface em **React** com **Tailwind**, e tudo rodando em **Docker**.
 
 Estou construindo meus projetos principais do zero. **Todos ainda estão em desenvolvimento**, e este perfil é onde o progresso aparece.
 
