@@ -91,9 +91,9 @@ const lucas = {
 ### `// contribuições`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake-dark.svg?v=2"? />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake.svg?v=2" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/LucasCorreiaDeveloper/LucasCorreiaDeveloper/output/github-snake-dark.svg?v=2" width="100%"/>
 </picture>
 
 ### `// contato`
