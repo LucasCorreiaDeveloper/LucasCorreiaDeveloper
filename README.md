@@ -21,7 +21,7 @@ Sou o **Lucas**, desenvolvedor **full stack**. Meu foco é cobrir o caminho inte
 
 Estou construindo meus projetos principais do zero. **Todos ainda estão em desenvolvimento**, e este perfil é onde o progresso aparece.
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIP
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na UNIP
 - 📍 Monte Aprazível, SP
 - 🚀 Em busca da primeira oportunidade como desenvolvedor
 
@@ -57,17 +57,17 @@ const lucas = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>📦 Projeto 01</h4>
+      <h4>📦 Sistema de gerenciamento de barbearia - Golden Chair</h4>
       <p>Em desenvolvimento.<br/>Descrição em breve.</p>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-0A84FF?style=flat-square&labelColor=000000" alt="status" />
     </td>
     <td width="33%" valign="top">
-      <h4>📦 Projeto 02</h4>
+      <h4>📦 Livro da vida </h4>
       <p>Em desenvolvimento.<br/>Descrição em breve.</p>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-0A84FF?style=flat-square&labelColor=000000" alt="status" />
     </td>
     <td width="33%" valign="top">
-      <h4>📦 Projeto 03</h4>
+      <h4>📦 Loja Virtual </h4>
       <p>Em desenvolvimento.<br/>Descrição em breve.</p>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-0A84FF?style=flat-square&labelColor=000000" alt="status" />
     </td>
