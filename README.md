@@ -83,7 +83,7 @@ const lucas = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=LucasCorreiaDeveloper&background=000000&border=0A84FF&stroke=0A84FF33&ring=0A84FF&fire=0A84FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0A84FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=LucasCorreiaDesenvolvedor&background=000000&border=0A84FF&stroke=0A84FF33&ring=0A84FF&fire=0A84FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0A84FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
